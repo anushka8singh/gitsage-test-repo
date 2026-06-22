@@ -1,0 +1,4 @@
+express
+react
+axios
+prisma
